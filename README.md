@@ -8,4 +8,4 @@ outrun my gun.
 I am comming like a ram 
 to crash in your program
 
-resolved!
+argh argh argh
