@@ -1,4 +1,3 @@
 # test-repository
 
-Do not visit subwave, they don't add olives!
-
+OK, I made up my mind.
