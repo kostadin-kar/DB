@@ -1,1 +1,0 @@
-Softuni DB: jdbc tasks
